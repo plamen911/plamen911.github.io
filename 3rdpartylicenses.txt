@@ -70,3 +70,15 @@ THE SOFTWARE.
 @angular/core@5.0.5
 MIT
 MIT
+
+@angular/platform-browser@5.0.5
+MIT
+MIT
+
+ng2-toastr@4.1.2
+ISC
+ISC
+
+@angular/common@5.0.5
+MIT
+MIT
